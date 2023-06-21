@@ -1,0 +1,68 @@
+body {
+    background-color: whitesmoke;
+  }
+  h1 {
+    color: black;
+  }
+  #introduction{
+    margin-left: 30px;
+    font-weight: bold;
+  }
+ #week{
+    
+    background-color: rgb(202, 201, 200);
+    border: 1px ;
+    border-radius: 5px;
+    padding: 5px;
+    
+  }
+
+  #listItem1{
+    color: rgb(11, 10, 10);
+    border: 1px ;
+    border-radius: 5px;
+    text-decoration: underline;
+    margin: 5px;
+    padding: 5px;
+    background: rgb(217, 171, 230);
+    margin-left: 90px;
+  }
+  #listItem2{
+    color: rgb(11, 10, 10);
+    border: 1px ;
+    border-radius: 5px;
+    text-decoration: underline;
+    margin: 5px;
+    padding: 5px;
+    background: rgb(175, 206, 240);
+  }
+  #listItem3{
+    color: rgb(11, 10, 10);
+    border: 1px ;
+    border-radius: 5px;
+    text-decoration: underline;
+    margin: 5px;
+    padding: 5px;
+    background: rgb(247, 108, 193);
+  }
+  #listItem4{
+    color: rgb(11, 10, 10);
+    border: 1px ;
+    border-radius: 5px;
+    text-decoration: underline;
+    margin: 5px;
+    padding: 5px;
+    background: rgb(108, 247, 164);
+  }
+  #listItem5{
+    color: rgb(11, 10, 10);
+    border: 1px ;
+    border-radius: 5px;
+    text-decoration: underline;
+    margin: 5px;
+    padding: 5px;
+    background: rgb(108, 247, 164);
+    margin-left: 90px;
+    
+  }
+ 
